@@ -18,4 +18,5 @@ const list = document.querySelector('ul');
 lis[0].remove();
 list.removeChild(lis[3]);
 
+
 console.log(newHeading);
